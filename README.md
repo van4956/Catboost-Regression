@@ -8,7 +8,7 @@
   
 Метрика качества: MAPE *(Mean Absolute Percentage Error)* – средняя абсолютная ошибка в процентах.  
   
-Проект также доступен на Kaggle: [Challenge - Catboost Regression](https://www.kaggle.com/code/ivan4956/challenge-catboost-regression)  (там удобнее читать Notebook)
+Проект также доступен на Kaggle: [Challenge - Catboost Regression](https://www.kaggle.com/code/ivan4956/challenge-catboost-regression)  *(там удобнее читать Notebook)*
 
 ## 📊 Данные
 
