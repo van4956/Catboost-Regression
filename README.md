@@ -1,4 +1,4 @@
-# Challenge — CatBoost Regression 🐆
+# Challenge - CatBoost Regression 🐆
 
 A project for predicting real-estate prices in Melbourne using **CatBoostRegressor**.  
 Completed as part of a Data Science educational competition on the Stepik platform.
