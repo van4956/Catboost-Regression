@@ -5,7 +5,8 @@ Completed as part of a Data Science educational competition on the Stepik platfo
 
 Result: MAPE improved from 14.32 → 14.07
 
-Kaggle Notebook:  [Challenge — CatBoost Regression](https://www.kaggle.com/code/ivan4956/challenge-catboost-regression) *(Viewing on Kaggle is recommended — the notebook is easier to read there.)*
+Kaggle Notebook:  [Challenge - CatBoost Regression](https://www.kaggle.com/code/ivan4956/challenge-catboost-regression)  
+*(Viewing on Kaggle is recommended - the notebook is easier to read there.)*
 
 ---
 
